@@ -1645,6 +1645,7 @@
 			transition: none !important;
 		}
 
+
 /* Type */
 
 	body, input, select, textarea {
@@ -2176,6 +2177,8 @@
   border-radius: 5px;
   width: 100%;
   height: auto;
+  filter: drop-shadow(0 0 30px #333);
+  padding-bottom: 25px;
 
 }
 		.image img {
